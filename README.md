@@ -2,7 +2,7 @@
 - 💡 I love solving real-world problems with **Data analysis**
 - 📚 Currently learning: , **Pandas**, **Power BI**, and **Interactive Dashboards**
 - 🤝 Open to collaboration on: **open-source data analysis & visualization projects**
-- 💬 Let’s connect: afreenshaikh1474@gmail.com | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/afreen-shaikh-42891a17a/))
+- 💬 Let’s connect: afreenshaikh1474@gmail.com | [LinkedIn]((https://www.linkedin.com/in/afreen-shaikh-42891a17a/))
 - 🐍 Fun fact: I believe coffee + Jupyter Notebook = magic ☕📓
 
 <!---
